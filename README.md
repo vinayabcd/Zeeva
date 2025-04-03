@@ -1,3 +1,3 @@
 # Zeeva
-To visit website use the link below --
+Use the link to visit--
 https://grand-seahorse-748ef6.netlify.app/
